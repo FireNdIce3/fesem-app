@@ -1,0 +1,15 @@
+button:hover {
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: not-allowed;
+}
+
+input:disabled{
+    cursor: not-allowed;
+}
+
+input[type=submit]:hover{
+   cursor: pointer;
+}

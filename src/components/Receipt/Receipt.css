@@ -1,0 +1,51 @@
+h2 {
+    word-spacing: 5px;
+    text-decoration: none;
+}
+
+
+
+.details {
+    line-height: 40px;
+}
+
+.booking-details {
+    margin-left: 5%;
+}
+
+.button {
+    margin-top: 40px;
+    margin-left: 20%;
+}
+
+.payment-methods {
+    width: fit-content;
+    margin-top: 40px;
+    margin-left: 6%;
+
+}
+
+.poption {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+label {
+    font-size: 20px;
+    order: 2;
+}
+
+input {
+    order: 1
+}
+
+.image2 {
+    position: absolute;
+    float: right;
+    left: 70%;
+    top: 15%;
+    z-index: 10;
+    max-height: 650px;
+}

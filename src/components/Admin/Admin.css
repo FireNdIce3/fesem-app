@@ -1,0 +1,49 @@
+.admin-details{
+    padding-left: 100px;
+    margin-left: 15%;
+    font-size: 12px;
+    border-radius: 0.2rem;
+    border: 1rem hidden #443c68;
+    border-collapse: collapse;
+    box-shadow: 0 0 0 1px black;
+    overflow: hidden;
+}
+.modal{
+    width: 100vw;
+    height: 100vh;
+    backdrop-filter: blur(5px);
+}
+.back{
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: #3120F2;
+}
+
+
+.ttd {
+    border: 1px solid #443c68;
+    min-width: max-content;
+    padding: 1rem;
+    line-height: 1.7;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.admindescp{
+    padding-left: 220px;
+}
+.tth {
+    background-color: blue;
+    color: white;
+    border: 1px solid #443c68;
+    min-width: max-content;
+    padding: 1rem;
+    line-height: 1.7;
+}
